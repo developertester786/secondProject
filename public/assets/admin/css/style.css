@@ -1,0 +1,12 @@
+.fixed-plugin {
+    display: none !important;
+}
+.set-textbox textarea {     height: 35px !important; }
+img.avatar.img-circle.rounded-circle {
+    border: 2px dashed rgba(0, 0, 0, 0.14);
+    padding: 4px;
+}
+.main-input {
+    z-index: 9;
+    opacity: 0;
+}
